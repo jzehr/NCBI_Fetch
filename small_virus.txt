@@ -1,0 +1,10 @@
+#Organism/Name	TaxID	BioProject Accession	BioProject ID	Group	SubGroup	Size (Kb)	GC%	Host	Segmemts	Genes	Proteins	Release Date	Modify Date	Status
+Heterosigma akashiwo RNA virus SOG263	239720	PRJNA15425	15425	ssRNA viruses	Marnaviridae	8.587	46.9	algae	 Unknown:NC_005281.1/AY337486.1	1	1	2003/07/23	2008/07/16	Complete Genome
+Acholeplasma virus L2	46014	PRJNA14066	14066	dsDNA viruses, no RNA stage	Plasmaviridae	11.965	32	bacteria	 Unknown:NC_001447.1/L13696.1	14	14	1993/06/11	2015/02/10	Complete Genome
+Pseudoalteromonas virus PM2	10661	PRJNA14237	14237	dsDNA viruses, no RNA stage	Corticoviridae	10.079	42.2	bacteria	 Unknown:NC_000867.1/AF155037.1	22	22	1999/07/13	2010/03/26	Complete Genome
+Posavirus sp.	1930510		0	unclassified viruses	unclassified	9.57	32.8	eukaryotes	NC_032412.1/KX673273.1	1	1	2016/12/27	2017/12/04	Complete Genome
+Mushroom bacilliform virus	32625	PRJNA14676	14676	ssRNA viruses	Barnaviridae	4.009	46.3	fungi	 Unknown:NC_001633.1/U07551.1	4	4	1994/10/08	2013/02/06	Complete Genome
+White spot syndrome virus	342409	PRJNA14616	14616	dsDNA viruses, no RNA stage	Nimaviridae	309.286	40.9	invertebrates	 Unknown:NC_003225.3/KT995472.1	177	177	2001/11/20	2016/01/10	Complete Genome
+Hepatitis E virus	12461	PRJNA15435	15435	ssRNA viruses	Hepeviridae	7.176	57.9	vertebrates, human	 Unknown:NC_001434.1/L08816.1	3	3	1993/08/02	2015/02/10	Complete Genome
+Botrytis virus F	129395	PRJNA14707	14707	ssRNA viruses	Gammaflexiviridae	6.827	53.4	fungi	 Unknown:NC_002604.1/AF238884.1	2	2	2000/10/14	2009/11/30	Complete Genome
+Chaetoceros socialis f. radians RNA virus 01	573993	PRJNA34845	34845	ssRNA viruses	unclassified	9.467	39.6	algae	 Unknown:NC_012212.1/AB469874.1	2	2	2009/02/11	2009/09/08	Complete Genome
